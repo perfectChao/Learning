@@ -14,7 +14,12 @@
 
 @implementation AppDelegate
 
-
+/**
+ 2022年01月18日17:52:23 修改1
+ 2022年09月02日17:14:10 修改2
+ 2022年09月02日17:14:46 修改3
+ 2022年09月02日17:15:18 修改4
+ */
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     return YES;
